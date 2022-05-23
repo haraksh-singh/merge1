@@ -8,7 +8,7 @@ class myClass {
     string dob;
     int show() {
 
-cout << "name of student: " << obj.name << "\nage of student: " << obj.age << "\n" << obj.dob;
+cout << "name of student: " << obj.name;
 }
 };
 
